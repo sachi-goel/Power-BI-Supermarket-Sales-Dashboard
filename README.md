@@ -17,7 +17,7 @@ This project analyzes supermarket sales data using Power BI to understand revenu
 The dataset is an Excel file containing transaction-level sales data including invoice details, city, product line, quantity, and total sales.
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots)
 
 ## 📈 Key Insights
 - Yangon generates the highest revenue
